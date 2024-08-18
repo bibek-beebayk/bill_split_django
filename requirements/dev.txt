@@ -1,0 +1,8 @@
+-r base.txt
+
+ipdb
+ipython
+django-debug-toolbar
+django-extensions
+black
+django-browser-reload
